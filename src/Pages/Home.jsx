@@ -2,7 +2,7 @@ import React from 'react';
 import Hero from '../Components/Homes/Hero';
 import Content from '../Components/Homes/Content';
 import { Link } from 'react-router-dom';
-import { useCart } from "../Context/Cartcontext"; 
+ 
 
 const Home = () => {
   return (
